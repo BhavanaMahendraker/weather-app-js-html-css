@@ -2,4 +2,4 @@
 #Learning Frontend development... :)
 
 
-![image](https://github.com/user-attachments/assets/a172889f-f5b9-42ac-a728-10973dbfd254)
+![image](https://github.com/user-attachments/assets/6c12031f-8eee-4205-86e4-53a143924f84)
